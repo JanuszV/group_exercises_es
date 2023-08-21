@@ -4,10 +4,10 @@ Come join our collaborative GitHub repository where friends gather to enhance th
 
 ## 🔍 What to Expect:
 
-Diverse Collection of Coding Questions: Explore a curated collection of programming challenges that span from beginner to advanced levels.
-Collaborative Learning: Contribute your solutions, compare approaches, and discuss strategies with fellow learners to broaden your understanding.
-Supportive Environment: Encourage and receive constructive feedback on your solutions, fostering growth and improvement.
-Language Agnostic: Practice using the programming language of your choice. Learn from different coding styles and techniques. 
+Diverse Collection of Coding Questions: Explore a curated collection of programming challenges that span from beginner to advanced levels.  
+Collaborative Learning: Contribute your solutions, compare approaches, and discuss strategies with fellow learners to broaden your understanding.  
+Supportive Environment: Encourage and receive constructive feedback on your solutions, fostering growth and improvement.  
+Language Agnostic: Practice using the programming language of your choice. Learn from different coding styles and techniques.  
 
 ## 📋 Guidelines for Posting Solutions:
 
