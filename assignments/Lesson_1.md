@@ -6,6 +6,7 @@ IF NOT STATED OTHERWISE THEN:
 
 
 This first assignment will be quite simple, so we can warm up a little bit.
+
 Please complete the following tasks either as separate functions or by running them consecutively within a single program:
 
 1. Display the version of your programming language.
