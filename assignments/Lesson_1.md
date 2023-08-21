@@ -1,8 +1,8 @@
 IF NOT STATED OTHERWISE THEN:
-You can use any programming language of your choice, along with any addons that make your life easier.
-All solutions can be posted as functions or separate programs.
-Try to refrain from searching for pre-existing solutions. If you're unsure how to solve a problem, don't search for 'how to print *'Hello world!'*'; instead, look for more specific information, such as 'How to print text in a my language?' and then use the knwoledge you aquired. 
-If a task seems challenging or impossible in your chosen language, don't hesitate to reach out for help or patiently await the next exercise.
+- You can use any programming language of your choice, along with any addons that make your life easier.
+- All solutions can be posted as functions or separate programs.
+- Try to refrain from searching for pre-existing solutions. If you're unsure how to solve a problem, don't search for 'how to print *'Hello world!'*'; instead, look for more specific information, such as 'How to print text in a my language?' and then use the knwoledge you aquired. 
+- If a task seems challenging or impossible in your chosen language, don't hesitate to reach out for help or patiently await the next exercise.
 
 
 This first assignment will be quite simple, so we can warm up a little bit.
