@@ -19,7 +19,7 @@ We encourage a 'learn by doing' approach, so try to refrain from searching for p
 
 Whether you're a coding novice looking to enhance your skills or an experienced programmer aiming to stay sharp, this repository provides a platform for mutual growth and knowledge sharing. Let's embark on this journey together and unlock the true potential of our coding abilities! 💻📚
 
-Ready to code, learn, and excel? Hit that 'Fork' button and let's get started! 🌟
+## Ready to code, learn, and excel? Hit that **'Fork'** button and let's get started! 🌟
 
 
 
