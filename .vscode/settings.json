@@ -54,6 +54,7 @@
         "xutility": "cpp",
         "string": "cpp",
         "iomanip": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "stdio.h": "c"
     }
 }

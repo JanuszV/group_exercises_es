@@ -28,7 +28,8 @@ int main() {
 
 //Function definition
 void version_print() {
-    std::cout << "Compiler version: " << _MSC_VER << std::endl;
+    int ver = _MSC_FULL_VER;
+    std::cout << "Compiler version: " << ver << std::endl;
     
 }
 
