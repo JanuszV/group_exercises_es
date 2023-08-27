@@ -11,6 +11,6 @@ Please complete the following tasks either as separate functions or by running t
 
 1. Display the version of your programming language.
 2. Display the current time and date.
-3. Create a *"Hello, World!"* message where each letter is displayed in a color of the rainbow.
+3. Create a *"Hello, World!"* message where letters are displayed in the colors of the rainbow.
 4. Calculate the area of a circle using a user-provided radius as input.
 5. Take user inputs for their first and last names, then reverse the order of the names, add a space between them, and display the result as a single output.
