@@ -49,7 +49,6 @@ while True:
         case "3":
             hello_world()
         case "4":
-            #print("What is the radius of the circle?: ")
             r = int(input("What is the radius of the circle?: "))
             calculate_radius(r)
         case "5":
