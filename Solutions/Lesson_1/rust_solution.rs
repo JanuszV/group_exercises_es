@@ -58,7 +58,7 @@ fn main() {
         let indigo = "\x1b[38;5;69m";
         let violet = "\x1b[38;5;129m";
 
-        println!("{red}H{orange}e{yellow}l{green}l{blue}o{reset}{indigo}, {violet}W{red}o{orange}r{yellow}l{green}d{blue}!{reset}");
+        println!("{red}H{orange}e{yellow}l{green}l{blue}o{indigo}, {violet}W{red}o{orange}r{yellow}l{green}d{blue}!{reset}");
     }
 
     fn circle_radius(){
