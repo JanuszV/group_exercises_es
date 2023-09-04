@@ -17,55 +17,55 @@ Please complete the following tasks either as separate functions or by running t
 7. Check if input number is even or odd.
 8. Given two lists, print all values from the first list that are not present in the second list.
     
-    Test samples:
-    First: [1, 2, 3, 4, 5]
-    Second: [3, 5, 6, 7]
-    Output: 1, 2, 4
+    Test samples:  
+    First: [1, 2, 3, 4, 5]  
+    Second: [3, 5, 6, 7]  
+    Output: 1, 2, 4  
 
-    First: ['apple', 'banana', 'orange', 'grape']
-    Second: ['banana', 'kiwi', 'grape']
-    Output: 'apple', 'orange'
+    First: ['apple', 'banana', 'orange', 'grape']  
+    Second: ['banana', 'kiwi', 'grape']  
+    Output: 'apple', 'orange'  
 
-    First: [10, 20, 30, 40, 50]
-    Second: [5, 10, 15, 20]
-    Output: 30, 40, 50
+    First: [10, 20, 30, 40, 50]  
+    Second: [5, 10, 15, 20]  
+    Output: 30, 40, 50  
 
-    First: ['dog', 'cat', 'horse', 'rabbit']
-    Second: []
-    Output: 'dog', 'cat', 'horse', 'rabbit'
+    First: ['dog', 'cat', 'horse', 'rabbit']  
+    Second: []  
+    Output: 'dog', 'cat', 'horse', 'rabbit'  
 
-    First: [1, 2, 3, 4, 5]
-    Second: [1, 2, 3, 4, 5]
-    Output: []
+    First: [1, 2, 3, 4, 5]  
+    Second: [1, 2, 3, 4, 5]  
+    Output: []  
 
 9. Round the input number just like in your school years!
     
-    Test samples:
-    Input   => Rounded Value
-    3.4     => 3
-    9.1     => 9
-    2.5     => 3
-    6.75    => 7
-    11.3    => 11
-    15.6    => 16
-    23.9    => 24
-    44.7    => 45
-    72.8    => 73
-    89.2    => 89
-    95.5    => 96
-    
+    Test samples:  
+    Input   => Rounded Value  
+    3.4     => 3  
+    9.1     => 9  
+    2.5     => 3  
+    6.75    => 7  
+    11.3    => 11  
+    15.6    => 16  
+    23.9    => 24  
+    44.7    => 45  
+    72.8    => 73  
+    89.2    => 89  
+    95.5    => 96  
+
 10. Round the input number using bankers rounding('.5' goes to nearest even number).
 
-    Test samples:
-    Input    => Rounded Value
-    3.4      => 3
-    9.1      => 9
-    2.5      => 2
-    6.75     => 7
-    11.3     => 11
-    15.6     => 16
-    23.9     => 24
-    44.7     => 45
-    72.8     => 72
-    89.2     => 89
-    95.5     => 96
+    Test samples:  
+    Input    => Rounded Value  
+    3.4      => 3  
+    9.1      => 9  
+    2.5      => 2  
+    6.75     => 7  
+    11.3     => 11  
+    15.6     => 16  
+    23.9     => 24  
+    44.7     => 45  
+    72.8     => 72  
+    89.2     => 89  
+    95.5     => 96  
