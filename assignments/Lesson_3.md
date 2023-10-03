@@ -13,11 +13,11 @@ Please complete the following tasks either as separate functions or by running t
 2. Print all numbers from 0 to n vertically.
     
     Test samples:  
-    Input   => Output 
-    15      =>              1 1 1 1 1
-                1 2 3 4 ... 1 2 3 4 5
-    56      =>              3 3 3     5 5 5
-                1 2 3 4 ... 2 3 4 ... 4 5 6    
+    Input   => Output  
+    15      =>              1 1 1 1 1  
+                1 2 3 4 ... 1 2 3 4 5  
+    56      =>              3 3 3     5 5 5  
+                1 2 3 4 ... 2 3 4 ... 4 5 6  
 
 3. Perfect square! Check if reversing the digits of the area of a perfectly squared number also results in a perfect square.
     
