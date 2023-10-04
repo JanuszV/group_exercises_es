@@ -30,7 +30,7 @@ Please complete the following tasks either as separate functions or by running t
 
     - Decimal to binary and hexadecimal,
     - Binary to decimal and hexadecimal,
-    - Hexadecimal to binary and decimal.
+    - Hexadecimal to binary and decimal.  
     Start by giving the user the choice of the number system the input is written in.
     If you feel confident, try to create a simple system to detect the type of number system; be creative!
 
