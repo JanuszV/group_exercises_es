@@ -34,4 +34,4 @@ Please complete the following tasks either as separate functions or by running t
     Start by giving the user the choice of the number system the input is written in.
     If you feel confident, try to create a simple system to detect the type of number system; be creative!
 
-5. Find the smallest positive integer which ends with n, is divisible by n, and the sum of its digits equals n.
+5. Find the smallest positive integer which ends with n, is divisible by n, do not take the number n into consideration.
